@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF4081</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Achievement Colors -->
+    <color name="achievement_completed">#4CAF50</color>
+    <color name="achievement_incomplete">#757575</color>
+
+    <!-- Chart Colors -->
+    <color name="chart_food">#FF5722</color>
+    <color name="chart_transportation">#2196F3</color>
+    <color name="chart_entertainment">#9C27B0</color>
+    <color name="chart_shopping">#FFC107</color>
+    <color name="chart_bills">#4CAF50</color>
+    <color name="chart_other">#795548</color>
+
+    <!-- Status Colors -->
+    <color name="status_success">#4CAF50</color>
+    <color name="status_warning">#FFC107</color>
+    <color name="status_error">#F44336</color>
+    <color name="status_info">#2196F3</color>
+</resources>

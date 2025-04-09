@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/nav_group_main">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_dashboard"
+            android:title="Dashboard" />
+        
+        <item
+            android:id="@+id/nav_add_expense"
+            android:icon="@drawable/ic_add_expense"
+            android:title="Add Expense" />
+        
+        <item
+            android:id="@+id/nav_expense_list"
+            android:icon="@drawable/ic_expense_list"
+            android:title="Expense List" />
+        
+        <item
+            android:id="@+id/nav_categories"
+            android:icon="@drawable/ic_categories"
+            android:title="Categories" />
+        
+        <item
+            android:id="@+id/nav_budget_goals"
+            android:icon="@drawable/ic_budget_goals"
+            android:title="Budget Goals" />
+        
+        <item
+            android:id="@+id/nav_reports"
+            android:icon="@drawable/ic_reports"
+            android:title="Reports" />
+        
+        <item
+            android:id="@+id/nav_achievements"
+            android:icon="@drawable/ic_achievements"
+            android:title="Achievements" />
+    </group>
+
+    <group android:id="@+id/nav_group_settings">
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings" />
+        
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+    </group>
+</menu> 
